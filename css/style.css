@@ -1,0 +1,30 @@
+.avatar{
+  width:100%
+}
+
+.navbar-brand {
+	padding-top: 7px;
+}
+
+.navbar-header {
+    float: left;
+    padding: 21px;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand {float:none;}
+
+footer {
+	background-color: #2780e3;
+	padding-top: 14px;
+	text-align: center;
+}
+
+.right {
+	float: right;
+	font-size: 21px;
+}
+
+.footlink {
+	color: white;
+}
